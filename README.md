@@ -5,8 +5,6 @@
 
 ![devDiegodeFonte GitHub stats](https://github-readme-stats.vercel.app/api?username=devDiegodeFonte&show_icons=true&theme=gruvbox)
 
-[![devDiegodeFonte Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devDiegodeFonte&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Tecnologias que já eu uso
 
 <div style="display: inline_block"><br/>
