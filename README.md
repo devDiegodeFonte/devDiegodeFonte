@@ -30,3 +30,6 @@
     <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
     <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </div>
+
+### Nesta página você encontrará exercícios propostos, e por hora tarefas simples de cursos que venho fazendo  
+### pelo youtube para ter um maior aprendizados das linguagens que já estou usando acima.
